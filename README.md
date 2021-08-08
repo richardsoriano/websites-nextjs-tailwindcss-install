@@ -32,3 +32,39 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Chapters
+
+Chapters
+3:43 Setup Install NextJS. Editor Pauses.
+https://youtu.be/Ak31wWRidRQ?t=223
+
+14:41 Screen Frozen Fixed. Redo Setup.
+https://youtu.be/Ak31wWRidRQ?t=881
+
+20:45 Layout Component
+https://youtu.be/Ak31wWRidRQ?t=1245
+
+25:25 Relative paths
+https://youtu.be/Ak31wWRidRQ?t=1515
+
+29:20 Page Component
+https://youtu.be/Ak31wWRidRQ?t=1760
+
+38:00 Layouts Tailwind in NextJS
+https://youtu.be/Ak31wWRidRQ?t=2301
+
+43:05 Adding CSS
+https://youtu.be/Ak31wWRidRQ?t=2580
+
+52:18 Fontsize
+https://youtu.be/Ak31wWRidRQ?t=3138
+
+58:08 Menu links in header. Flex
+https://youtu.be/Ak31wWRidRQ?t=3484
+
+1:06:48 Main Menu links. Router
+https://youtu.be/Ak31wWRidRQ?t=4003
+
+1:20:50
+https://youtu.be/Ak31wWRidRQ?t=4850
